@@ -1,3 +1,5 @@
 st-pages
 matplotlib
 streamlit-authenticator
+pymongo
+bson
